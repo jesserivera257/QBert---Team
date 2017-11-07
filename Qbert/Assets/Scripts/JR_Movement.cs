@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+//Jesse Rivera, Feature: Movement, Start:
 
 public class JR_Movement : MonoBehaviour {
 
